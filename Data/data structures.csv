@@ -1,0 +1,5 @@
+Data Structure, Description, Mutable?, Ordered?
+List, A list is a collection which is ordered and changeable., True, True
+Tuple, Tuples are used to store multiple items in a single variable., False, True
+Dictionaries, Dictionaries are used to store data values in key:value pairs., True
+Set, Sets are used to store multiple items in a single variable., True, False

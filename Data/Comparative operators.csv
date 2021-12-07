@@ -1,0 +1,7 @@
+op, meaning, true, false
+==, equal, 2==2, 2==3
+!=, not equal, 2!=3, 2!=2
+<, less than, 2 < 13, 2<2
+<=, lss tahn or equal, 2<=2, 3<=2
+>, greater than, 13>2, 2>13
+>=, greater than or equal, 3>=2, 2>=3

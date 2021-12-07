@@ -1,0 +1,5 @@
+type,set of values,common operatprs
+int,integers,+ - // % **
+float,floating point numbers,+ - / % **
+bool,true or false values,and or not
+str,sequence of characters,	+

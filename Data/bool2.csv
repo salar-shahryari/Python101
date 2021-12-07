@@ -1,0 +1,5 @@
+a, b, a and b, a or b
+True, True, True, True
+True, False, False, True
+False, True, False, True
+False, False, False, False
